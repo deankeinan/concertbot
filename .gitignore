@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Sensitive info
+config.py
+
 # =========================
 # Operating System Files
 # =========================
